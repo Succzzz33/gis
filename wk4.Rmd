@@ -5,3 +5,4 @@ sad  看commit 不提交会怎么样
 从git 到local
 local变
 git变 不pull 但localpush
+local 变 push
